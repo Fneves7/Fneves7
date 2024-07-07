@@ -15,7 +15,7 @@
   <p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,wordpress" /> <p/>
 
   <h7>Stack using JS:</h7>
-  <p> <img src="https://skillicons.dev/icons?i=nodejs,react,vue,pinia,netlify,vercel" /> <p/>
+  <p> <img src="https://skillicons.dev/icons?i=nodejs,react,netlify,vercel" /> <p/>
   
   <h7>Stack using PHP:</h7>
   <p> <img src="https://skillicons.dev/icons?i=php,laravel" /> <p/>
