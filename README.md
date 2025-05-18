@@ -4,7 +4,7 @@
 </div>
 
 - 🧰 Currently working on: {Private Repository}. 🕵
-- 📚 Currently learning: <a href="https://pinia.vuejs.org/"> Pinia.<a/> 🍍
+- 📚 Currently learning: 🤔
 - 📭 Contact me: <a href="https://www.linkedin.com/in/francisconeves07/"> LinkedIn <a/>
 - ℹ Check my portfólio/personal web page: <a href="https://fneves.netlify.app/" target="_blank" rel="noopener noreferrer"> Link <a/>
 
